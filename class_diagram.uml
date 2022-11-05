@@ -1,0 +1,12 @@
+#VM, UML, mode
+@startuml
+	class Instruccions {
+		- pathOSimage:string
+
+		-----------
+		+ createVM():void
+		+ memorySettingUpVM():void
+		+ enableRDP:void
+		+ startVM:void
+	}   
+@enduml
