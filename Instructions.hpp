@@ -2,6 +2,9 @@
 
 class Instructions
 {
+    private:
+    std::string pathOsImage;
+
     public:
         void createVM();
         void memorySettingUpVM();

@@ -1,12 +1,14 @@
 #VM, UML, mode
+#PlantumlSave Hands-on 7.png
+#PlantumlOpen
 @startuml
 	class Instruccions {
-		- pathOSimage:string
+		- pathOsImage:string
 
 		-----------
 		+ createVM():void
 		+ memorySettingUpVM():void
-		+ enableRDP:void
-		+ startVM:void
+		+ enableRDP():void
+		+ startVM():void
 	}   
 @enduml
