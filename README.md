@@ -1,13 +1,19 @@
 # system-Virtualization_-_Hypervisor
 
-## Linux terminal commands: 
-1. g++ *.cpp -o main
-2. ./main
-
+## C++ Linux terminal's commands: 
+```
+g++ *.cpp -o main
+```
+```
+./main
+```
 ## vim + plantuml commads:
-* PlantumlOpen - To render in browser.
-* PlantumlSave Hands-on 7.png  - To save uml rendering in current path.
-
+```
+PlantumlOpen - To render in browser.
+```
+```
+PlantumlSave Hands-on 7.png  - To save uml rendering in current path.
+```
 
 <hr>
 
