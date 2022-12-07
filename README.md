@@ -22,6 +22,6 @@ PlantumlSave Hands-on 7.png  - To save uml rendering in current path.
 ![hands-07](https://user-images.githubusercontent.com/67779237/200105067-8b2ea9f0-d05b-4950-ade0-f09a1e3e2ec2.png)
 
 
-<i>Subject : Cloud Computing.</i>
+<i>Course : Cloud Computing.</i>
 
 <i>University: Tecnologico Superior de Jalisco - Zapopan.</i>
